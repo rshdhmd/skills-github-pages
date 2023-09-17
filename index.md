@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: page intro
 this is my page
 ---
 
